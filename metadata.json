@@ -1,0 +1,6 @@
+{
+  "name": "Dice & Dragons: Junior Quest",
+  "description": "A magical tabletop roleplaying game for young adventurers (aged 5+) teaching KS1 phonics, mental maths, history, and geography through epic dragon duels and story quests.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
